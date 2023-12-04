@@ -5,7 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - RubyController
+<<<<<<< HEAD:My project 1/ProjectSettings/TagManager.asset
   - Creature
+=======
+>>>>>>> 4c47834851c53103978b87aa55a4e379636ae3c4:My project/ProjectSettings/TagManager.asset
   layers:
   - Default
   - TransparentFX
